@@ -1,0 +1,11 @@
+the launchApp.sh script is ran at boot
+
+the file located at: 
+
+is how this is setup
+
+to do this for all users you could add it to /etc/xdg/lxsession/LXDE-pi/autostart
+
+or use crontab
+
+or use etc/rc.local 
